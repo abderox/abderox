@@ -1,6 +1,6 @@
 ## Hey, [Haany here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h1>Welcome to my humble abode in the Digital World..</h1> 
+<h1>Welcome to my humbleGITHUB profile.</h1> 
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
@@ -10,6 +10,7 @@
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
 ## :computer: Technologies I Love
+* Blockchain
 * Flutter
 * Machine Learning
 * Data Science
@@ -27,32 +28,25 @@
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Haany Ali'
-		current_edu = "St. Mary's Group of Institutions"
+ 	user = 'Abdelhadi Mouzafir'
+		current_edu = "IRISI FSTG UCA"
 		hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
+				'Reading about new techs',
+				'Infographie',
+				'Resting in Calm places'
+				'Writing in arabic'
 			]
 	
 	def getCity():
-		return Hyderabad_India()
+		return Marrakech_Agadir()
 	
 	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
+		LearnWeb3()
+		RealizeMycurrentgOAL()
+		getDiplome()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
- 
-## Current Works
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
- * Getting Started with NodeJS and the MERN Stack!!
- 
-## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1uxq1shtoVfoD8D4sD5MHN3drGVA50vlz/view?usp=sharing)
-  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
+
+![MOUZAFIR's github stats](https://github-readme-stats.vercel.app/api?username=abderox&show_icons=true&hide=[%22issues%22])
