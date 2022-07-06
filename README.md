@@ -1,7 +1,7 @@
 ## Hey, [Mouzafir here!](https://github.com/abderox/abderox)
 <h1>Welcome to my humble GITHUB profile.</h1> 
 
-<img src = 'https://www.openaccessgovernment.org/wp-content/uploads/2020/08/dreamstime_l_124110584.jpg' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abderox" alt="abderox" /> </p>
