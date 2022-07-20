@@ -1,4 +1,6 @@
 ## Hey, [Mouzafir here!](https://github.com/abderox/abderox)
+[![OSCS Status](https://www.oscs1024.com/platform/badge//abderox/Algorand_Course.git.svg?size=small)](https://www.murphysec.com/dr/R6pPcWf0WWhwAYBZqA)
+
 <h1>Welcome to my humble GITHUB profile.</h1> 
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
@@ -46,6 +48,5 @@
 	
  ```
 
-[![OSCS Status](https://www.oscs1024.com/platform/badge//abderox/Algorand_Course.git.svg?size=small)](https://www.murphysec.com/dr/R6pPcWf0WWhwAYBZqA)
 
 ![MOUZAFIR's github stats](https://github-readme-stats.vercel.app/api?username=abderox&show_icons=true&hide=[%22issues%22])
