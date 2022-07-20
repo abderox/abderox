@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abderox" alt="abderox" /> </p>
 
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+<div style="text-align: right">There are 2 types of people in the world. Those who get Binary and those who don't.. </div>
 
 ## :computer: Technologies I Love
 * Blockchain
