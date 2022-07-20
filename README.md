@@ -46,5 +46,6 @@
 	
  ```
 
+[![OSCS Status](https://www.oscs1024.com/platform/badge//abderox/Algorand_Course.git.svg?size=small)](https://www.murphysec.com/dr/R6pPcWf0WWhwAYBZqA)
 
 ![MOUZAFIR's github stats](https://github-readme-stats.vercel.app/api?username=abderox&show_icons=true&hide=[%22issues%22])
