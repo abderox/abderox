@@ -3,7 +3,7 @@
 
 <h1>Welcome to my humble GITHUB profile.</h1> 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://www.canva.com/design/DAFHtZ-Ozpk/xnNSbXznBYvejbzKwL5GkQ/view?utm_content=DAFHtZ-Ozpk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton' alt = 'Awesome Matrix Code' align='center'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abderox" alt="abderox" /> </p>
 
