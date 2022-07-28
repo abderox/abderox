@@ -11,7 +11,7 @@
 
 ## :computer: Technologies I Love
 * Blockchain
-* Flutter
+* Android
 * Machine Learning
 * Data Science
 * Frontend and Backend Web Development
