@@ -3,7 +3,7 @@
 
 <h1>Welcome to my humble GITHUB profile.</h1> 
 
-<img src = 'https://drive.google.com/file/d/1Hdl-lJipqqSCE2mjn4NAcfVqgAQ3ewNu/view?usp=sharing' alt = 'Awesome Matrix Code' align='center'/>
+<img src = 'https://github.com/abderox/video_speed_extension/blob/main/author/banner%20git.png' alt = 'banner' align='center'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abderox" alt="abderox" /> </p>
 
