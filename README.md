@@ -18,6 +18,8 @@
 
 ![MOUZAFIR's github stats](https://github-readme-stats.vercel.app/api?username=abderox&show_icons=true&theme=radical&hide=[%22issues%22])
 
+![MOUZAFIR's github streaks stats](https://github-readme-streak-stats.herokuapp.com/?user=abderox&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D)
+
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
 
