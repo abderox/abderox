@@ -16,7 +16,6 @@
 * Data Science
 * Frontend and Backend Web Development
 
-![MOUZAFIR's github stats](https://github-readme-stats.vercel.app/api?username=abderox&title_color=FFFFFF&text_color=FFFFFF&show_icons=true&icon_color=000000&include_all_commits=true&count_private=true&theme=dark&bg_color=000000&hide_border=true)
 
 ![MOUZAFIR's github streaks stats](https://github-readme-streak-stats.herokuapp.com/?user=abderox&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D)
 
